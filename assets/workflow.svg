@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="170" viewBox="0 0 560 170">
+  <rect width="560" height="170" rx="12" fill="#0d1117" stroke="#1f6feb" stroke-width="1.5"/>
+  <text x="280" y="34" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" letter-spacing="4">HOW I WORK</text>
+
+  <rect x="22" y="60" width="108" height="44" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="76" y="87" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#f0f6fc">REPRODUCE</text>
+
+  <line x1="134" y1="82" x2="148" y2="82" stroke="#58a6ff" stroke-width="2"/>
+  <polygon points="148,77 156,82 148,87" fill="#58a6ff"/>
+
+  <rect x="160" y="60" width="108" height="44" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="214" y="87" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#f0f6fc">SIMULATE</text>
+
+  <line x1="272" y1="82" x2="286" y2="82" stroke="#58a6ff" stroke-width="2"/>
+  <polygon points="286,77 294,82 286,87" fill="#58a6ff"/>
+
+  <rect x="298" y="60" width="108" height="44" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="352" y="87" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#f0f6fc">DEPLOY</text>
+
+  <line x1="410" y1="82" x2="424" y2="82" stroke="#58a6ff" stroke-width="2"/>
+  <polygon points="424,77 432,82 424,87" fill="#58a6ff"/>
+
+  <rect x="436" y="60" width="102" height="44" rx="8" fill="#1f6feb"/>
+  <text x="487" y="87" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="13" fill="#ffffff">MEASURE</text>
+
+  <text x="280" y="140" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e" font-style="italic">if it works, know why it works</text>
+</svg>

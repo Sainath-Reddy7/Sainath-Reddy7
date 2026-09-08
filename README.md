@@ -1,87 +1,130 @@
+<!-- ────────────────────────  HERO  ──────────────────────── -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1f6feb,100:388bfd&height=170&section=header&text=B%20Sainath%20Reddy&fontSize=44&fontColor=ffffff&fontAlignY=34&animation=fadeIn" width="100%" alt="header" />
-  
-  <a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Paper+reproduction+%E2%86%92+simulation+%E2%86%92+deployment;RL+%C2%B7+XAI+%C2%B7+Robotics+%C2%B7+ICS+Security;Building+systems+end-to-end">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=17&pause=1200&color=58A6FF&center=true&vCenter=true&width=620&lines=Paper+reproduction+%E2%86%92+simulation+%E2%86%92+deployment;RL+%C2%B7+XAI+%C2%B7+Robotics+%C2%B7+ICS+Security;Building+systems+end-to-end" alt="typing" />
-  </a>
-  
-  **Reinforcement Learning · Robotics &amp; Control · ICS Cybersecurity**
-  
-  Amrita Vishwa Vidyapeetham &nbsp;·&nbsp; Coimbatore, India
-  
-  <p>
-    <a href="https://github.com/Sainath-Reddy7"><img src="https://komarev.com/ghpvc/?username=Sainath-Reddy7&style=flat-square&color=1f6feb&label=Profile+Views" alt="profile views" /></a>
-    <a href="https://github.com/Sainath-Reddy7?tab=followers"><img src="https://img.shields.io/github/followers/Sainath-Reddy7?label=Followers&style=flat-square&color=blueviolet" alt="followers" /></a>
-    <a href="https://github.com/Sainath-Reddy7?tab=stars"><img src="https://img.shields.io/github/stars/Sainath-Reddy7?affiliations=OWNER&style=flat-square&color=e3b341" alt="stars" /></a>
-    <img src="https://img.shields.io/badge/Open%20to-Internships%20%26%20Collabs-2ea043?style=flat-square" alt="open to work" />
-  </p>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,60:1f6feb,100:388bfd&height=150&section=header" width="100%" alt=""/>
+
+<br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=44&pause=99999999&color=F0F6FC&center=true&vCenter=true&repeat=false&width=640&height=66&lines=Hi%2C+I%27m+Sainath+Reddy" alt="Hi, I'm Sainath Reddy"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&pause=99999999&color=8B949E&center=true&vCenter=true&repeat=false&width=640&height=32&lines=AI+Student++%7C++Amrita+Vishwa+Vidyapeetham+%C2%B7+Coimbatore" alt="AI Student at Amrita"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=58A6FF&center=true&vCenter=true&width=640&height=36&lines=Reinforcement+Learning+%C2%B7+XAI+%C2%B7+Robotics+%C2%B7+ICS+Security%3BREPRODUCE+%E2%86%92+SIMULATE+%E2%86%92+DEPLOY+%E2%86%92+MEASURE" alt="focus areas"/>
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/b-sainath-reddy-097915321)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:bsainathreddy4@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/Sainath-Reddy7?tab=repositories)
+
 </div>
 
-## 👨‍🎓 About Me
+---
 
-- 🎓 Engineering student at **Amrita Vishwa Vidyapeetham**, working across **AI/ML, robotics, and industrial cybersecurity**.
-- 🔬 I take problems **end to end** — reproduce the research, build the simulation, deploy it, and measure it against baselines.
-- 🚀 Currently exploring **explainable RL**, **quantum-inspired neural networks**, and **autonomous drone control**.
-- 📍 Coimbatore, India &nbsp;·&nbsp; 📫 [bsainathreddy4@gmail.com](mailto:bsainathreddy4@gmail.com)
+## About Me
 
-## 🧰 Toolbox
+<table>
+<tr>
+<td valign="top" width="56%">
 
-**Languages:** &nbsp;
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+```python
+class SainathReddy:
 
-**Machine Learning:** &nbsp;
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
-![SHAP](https://img.shields.io/badge/SHAP-00BFFF?style=flat-square&labelColor=0d1117)
+    role       = "AI & Robotics Student"
+    but_mostly = "I build systems end-to-end"
+    #             RL · XAI · drones · ICS security
 
-**Deep Learning:** &nbsp;
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![MediaPipe](https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square)
-![EasyOCR](https://img.shields.io/badge/EasyOCR-6C2EB9?style=flat-square)
+    currently  = "reproducing papers — then extending them"
+    open_to    = "internships & research collabs"
 
-**Robotics &amp; Simulation:** &nbsp;
-![MuJoCo](https://img.shields.io/badge/MuJoCo-000000?style=flat-square)
-![Gazebo](https://img.shields.io/badge/Gazebo-2C2C2C?style=flat-square)
-![ArduPilot](https://img.shields.io/badge/ArduPilot-E64A19?style=flat-square)
-![PyBullet](https://img.shields.io/badge/PyBullet-1F6FEB?style=flat-square)
+    def how_i_work(self):
+        return ("understand the math, "
+                "rebuild it from scratch, "
+                "then make it run in the "
+                "real world")
+```
 
-**Web &amp; Tools:** &nbsp;
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Conda](https://img.shields.io/badge/Conda-44A833?style=flat-square&logo=anaconda&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+</td>
+<td valign="middle" align="center" width="44%">
 
-## 📊 GitHub Stats
+<img src="https://avatars.githubusercontent.com/u/180950590?v=4" width="62%" alt="avatar"/>
 
-<p align="center">
-  <a href="https://github.com/Sainath-Reddy7">
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sainath-Reddy7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=388bfd&text_color=c9d1d9&include_all_commits=true" alt="GitHub stats" />
-    <img height="165" src="https://streak-stats.demolab.com/?user=Sainath-Reddy7&hide_border=true&background=0D1117&ring=1F6FEB&fire=E3B341&currStreakLabel=58A6FF&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=6E7681" alt="GitHub streak" />
-  </a>
-  <br/>
-  <img width="57%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath-Reddy7&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" alt="Top languages" />
-</p>
+<sub><i>B Sainath Reddy · Coimbatore, India</i></sub>
 
-## 🤝 Connect
+</td>
+</tr>
+</table>
 
-Open to collaborations on AI, robotics, and security research — feel free to reach out.
+---
 
-<p>
-  <a href="mailto:bsainathreddy4@gmail.com"><img src="https://img.shields.io/badge/Email-bsainathreddy4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/b-sainath-reddy-097915321"><img src="https://img.shields.io/badge/LinkedIn-B%20Sainath%20Reddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://github.com/Sainath-Reddy7"><img src="https://img.shields.io/badge/GitHub-Sainath--Reddy7-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
-</p>
+## Stack & Tools
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,40:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
+
+<img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,tensorflow,numpy,pandas,jupyter,postgres,git,github,vscode,linux,vercel&theme=dark&perline=7" alt="core stack"/>
+
+<br/>
+
+<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=58A6FF" alt="scikit-learn"/></a>
+<a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=58A6FF" alt="OpenCV"/></a>
+<a href="https://developers.google.com/mediapipe"><img src="https://img.shields.io/badge/MediaPipe-0d0d0d?style=flat-square&logoColor=58A6FF" alt="MediaPipe"/></a>
+<a href="https://shap.readthedocs.io"><img src="https://img.shields.io/badge/SHAP-0d0d0d?style=flat-square&logoColor=58A6FF" alt="SHAP"/></a>
+<a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-0d0d0d?style=flat-square&logoColor=58A6FF" alt="Matplotlib"/></a>
+<a href="https://mujoco.org"><img src="https://img.shields.io/badge/MuJoCo-0d0d0d?style=flat-square&logoColor=58A6FF" alt="MuJoCo"/></a>
+<a href="https://gazebosim.org"><img src="https://img.shields.io/badge/Gazebo-0d0d0d?style=flat-square&logoColor=58A6FF" alt="Gazebo"/></a>
+<a href="https://ardupilot.org"><img src="https://img.shields.io/badge/ArduPilot-0d0d0d?style=flat-square&logoColor=58A6FF" alt="ArduPilot"/></a>
+<a href="https://pybullet.org"><img src="https://img.shields.io/badge/PyBullet-0d0d0d?style=flat-square&logoColor=58A6FF" alt="PyBullet"/></a>
+<a href="https://github.com/JaidedAI/EasyOCR"><img src="https://img.shields.io/badge/EasyOCR-0d0d0d?style=flat-square&logoColor=58A6FF" alt="EasyOCR"/></a>
+
 </div>
+
+---
+
+## What I'm About
+
+<table>
+<tr>
+<td valign="middle" width="58%">
+
+Most of what I know comes from rebuilding things from the ground up —
+reimplementing papers line by line, writing KernelSHAP in pure NumPy,
+taking a quadrotor controller from quaternion math to a full SITL
+deployment across four simulators.
+
+If a system works, I want to know **why** it works.
+That's the difference between using AI and understanding it.
+
+</td>
+<td valign="middle" align="center" width="42%">
+
+<img src="assets/workflow.svg" width="88%" alt="reproduce → simulate → deploy → measure"/>
+
+<sub><i>papers → sims → deployed systems, with numbers to prove it.</i></sub>
+
+</td>
+</tr>
+</table>
+
+---
+
+## Let's Connect
+
+<div align="center">
+
+Open to internships, research collaborations, and good problems worth solving.
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/b-sainath-reddy-097915321)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:bsainathreddy4@gmail.com)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/Sainath-Reddy7?tab=repositories)
+
+</div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1f6feb,100:0d0d0d&height=90&section=footer" width="100%"/>
