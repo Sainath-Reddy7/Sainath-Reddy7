@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="560" height="180" viewBox="0 0 560 180">
+  <rect width="560" height="180" rx="12" fill="#0d1117" stroke="#1f6feb" stroke-width="1.5"/>
+  <text x="280" y="32" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="14" fill="#8b949e" letter-spacing="4">THE AI LANDSCAPE</text>
+
+  <rect x="28" y="48" width="160" height="40" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="108" y="73" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#f0f6fc">MACHINE LEARNING</text>
+
+  <rect x="200" y="48" width="160" height="40" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="280" y="73" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#f0f6fc">DEEP LEARNING</text>
+
+  <rect x="372" y="48" width="160" height="40" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="452" y="73" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#f0f6fc">REINFORCEMENT</text>
+
+  <rect x="28" y="104" width="160" height="40" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="108" y="129" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#f0f6fc">COMPUTER VISION</text>
+
+  <rect x="200" y="104" width="160" height="40" rx="8" fill="#1f6feb"/>
+  <text x="280" y="129" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#ffffff">EXPLAINABLE AI</text>
+
+  <rect x="372" y="104" width="160" height="40" rx="8" fill="#161b22" stroke="#58a6ff" stroke-width="1.5"/>
+  <text x="452" y="129" text-anchor="middle" font-family="JetBrains Mono, Consolas, monospace" font-size="12" fill="#f0f6fc">ICS SECURITY</text>
+
+  <text x="280" y="168" text-anchor="middle" font-family="Segoe UI, Arial, sans-serif" font-size="12" fill="#8b949e" font-style="italic">one landscape — many tools</text>
+</svg>

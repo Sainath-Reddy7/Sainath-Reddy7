@@ -9,7 +9,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&pause=99999999&color=8B949E&center=true&vCenter=true&repeat=false&width=640&height=32&lines=AI+Student++%7C++Amrita+Vishwa+Vidyapeetham+%C2%B7+Coimbatore" alt="AI Student at Amrita"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=58A6FF&center=true&vCenter=true&width=640&height=36&lines=Reinforcement+Learning+%C2%B7+XAI+%C2%B7+Robotics+%C2%B7+ICS+Security%3BREPRODUCE+%E2%86%92+SIMULATE+%E2%86%92+DEPLOY+%E2%86%92+MEASURE" alt="focus areas"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=58A6FF&center=true&vCenter=true&width=640&height=36&lines=Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+RL+%C2%B7+Computer+Vision%3Bbuilding+intelligent+systems+end-to-end" alt="focus areas"/>
 
 <br/>
 
@@ -88,20 +88,21 @@ class SainathReddy:
 <tr>
 <td valign="middle" width="58%">
 
-Most of what I know comes from rebuilding things from the ground up —
-reimplementing papers line by line, writing KernelSHAP in pure NumPy,
-taking a quadrotor controller from quaternion math to a full SITL
-deployment across four simulators.
+I work across the AI landscape — machine learning, deep learning,
+reinforcement learning, vision — because real problems don't come
+labeled with the technique that solves them.
 
-If a system works, I want to know **why** it works.
-That's the difference between using AI and understanding it.
+What stays constant: clean data, sound math, honest evaluation, and
+models that hold up outside the notebook. If a system works, I want
+to know **why** it works — that's the difference between using AI
+and engineering it.
 
 </td>
 <td valign="middle" align="center" width="42%">
 
-<img src="assets/workflow.svg" width="88%" alt="reproduce → simulate → deploy → measure"/>
+<img src="assets/landscape.svg" width="88%" alt="the AI landscape"/>
 
-<sub><i>papers → sims → deployed systems, with numbers to prove it.</i></sub>
+<sub><i>one landscape, many tools — pick the right one for the problem.</i></sub>
 
 </td>
 </tr>
