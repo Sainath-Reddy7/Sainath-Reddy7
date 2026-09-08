@@ -32,11 +32,11 @@
 ```python
 class SainathReddy:
 
-    role       = "AI & Robotics Student"
-    but_mostly = "I build systems end-to-end"
-    #             RL · XAI · drones · ICS security
+    role       = "AI Student"
+    but_mostly = "I build intelligent systems"
+    #             ML · DL · RL · CV — the whole toolkit
 
-    currently  = "reproducing papers — then extending them"
+    currently  = "diving deeper into everything AI"
     open_to    = "internships & research collabs"
 
     def how_i_work(self):
@@ -69,13 +69,10 @@ class SainathReddy:
 
 <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=58A6FF" alt="scikit-learn"/></a>
 <a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=58A6FF" alt="OpenCV"/></a>
+<a href="https://keras.io"><img src="https://img.shields.io/badge/Keras-0d0d0d?style=flat-square&logo=keras&logoColor=58A6FF" alt="Keras"/></a>
 <a href="https://developers.google.com/mediapipe"><img src="https://img.shields.io/badge/MediaPipe-0d0d0d?style=flat-square&logoColor=58A6FF" alt="MediaPipe"/></a>
 <a href="https://shap.readthedocs.io"><img src="https://img.shields.io/badge/SHAP-0d0d0d?style=flat-square&logoColor=58A6FF" alt="SHAP"/></a>
 <a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-0d0d0d?style=flat-square&logoColor=58A6FF" alt="Matplotlib"/></a>
-<a href="https://mujoco.org"><img src="https://img.shields.io/badge/MuJoCo-0d0d0d?style=flat-square&logoColor=58A6FF" alt="MuJoCo"/></a>
-<a href="https://gazebosim.org"><img src="https://img.shields.io/badge/Gazebo-0d0d0d?style=flat-square&logoColor=58A6FF" alt="Gazebo"/></a>
-<a href="https://ardupilot.org"><img src="https://img.shields.io/badge/ArduPilot-0d0d0d?style=flat-square&logoColor=58A6FF" alt="ArduPilot"/></a>
-<a href="https://pybullet.org"><img src="https://img.shields.io/badge/PyBullet-0d0d0d?style=flat-square&logoColor=58A6FF" alt="PyBullet"/></a>
 <a href="https://github.com/JaidedAI/EasyOCR"><img src="https://img.shields.io/badge/EasyOCR-0d0d0d?style=flat-square&logoColor=58A6FF" alt="EasyOCR"/></a>
 
 </div>
