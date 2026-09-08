@@ -63,10 +63,12 @@ class SainathReddy:
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,cpp,ts,pytorch,tensorflow,numpy,pandas,jupyter,postgres,git,github,vscode,linux,vercel&theme=dark&perline=7" alt="core stack"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,cpp,ts,anaconda,postgres,sqlite,docker,git,github,vscode,linux,vercel&theme=dark&perline=8" alt="core stack"/>
 
 <br/>
 
+<a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-0d0d0d?style=flat-square&logo=numpy&logoColor=58A6FF" alt="NumPy"/></a>
+<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=58A6FF" alt="Pandas"/></a>
 <a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=58A6FF" alt="scikit-learn"/></a>
 <a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=58A6FF" alt="OpenCV"/></a>
 <a href="https://keras.io"><img src="https://img.shields.io/badge/Keras-0d0d0d?style=flat-square&logo=keras&logoColor=58A6FF" alt="Keras"/></a>
