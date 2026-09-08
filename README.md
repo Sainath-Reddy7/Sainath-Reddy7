@@ -78,7 +78,13 @@ An AI-powered OCR pipeline that converts business-card images into **structured,
 
 ## 🤝 Connect
 
-Open to collaborations on AI, robotics, and security research — feel free to explore my repositories or reach out on GitHub.
+Open to collaborations on AI, robotics, and security research — feel free to reach out.
+
+<p>
+  <a href="mailto:bsainathreddy4@gmail.com"><img src="https://img.shields.io/badge/Email-bsainathreddy4%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/b-sainath-reddy-097915321"><img src="https://img.shields.io/badge/LinkedIn-B%20Sainath%20Reddy-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/Sainath-Reddy7"><img src="https://img.shields.io/badge/GitHub-Sainath--Reddy7-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:388bfd,40:1f6feb,100:0d1117&height=120&section=footer" width="100%" alt="footer" />
