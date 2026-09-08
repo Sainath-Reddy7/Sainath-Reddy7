@@ -24,26 +24,6 @@
 - 🚀 Currently exploring **explainable RL**, **quantum-inspired neural networks**, and **autonomous drone control**.
 - 📍 Coimbatore, India &nbsp;·&nbsp; 📫 [bsainathreddy4@gmail.com](mailto:bsainathreddy4@gmail.com)
 
-## 🚀 Featured Work
-
-**1. [Full Quaternion-Based Attitude Control for a Quadrotor](https://github.com/Sainath-Reddy7/Drones_S5_CD_12_Full_Quaternion_Based_Attitude_Control_for_a_Quadrotor)** 🚁
-Complete reproduction of Fresk &amp; Nikolakopoulos (*ECC 2013*) with a full 6-DOF SITL pipeline — deployed and verified on **gym-pybullet-drones, MuJoCo, Gazebo, and ArduPilot**, with a [live web demo](https://quadrotor-quaternion-sim.vercel.app).
-`Control Systems` `Quaternion Math` `SITL` `Python`
-
-**2. [Explainable RL for Energy-Efficient Cloud Resource Scheduling](https://github.com/Sainath-Reddy7/Explainable-Reinforcement-Learning-for-Energy-Efficient-Cloud-Resource-Scheduling)** 🧠
-Double DQN cloud–edge scheduler with a **from-scratch KernelSHAP explainability layer**, trained on **real Google Borg traces** and audited with 6 trust metrics (Deletion/Insertion AOPC, Infidelity, Stability). Benchmarked against 7 baselines — pure NumPy, no PyTorch/TensorFlow.
-`Reinforcement Learning` `XAI / SHAP` `NumPy` `Cloud Systems`
-
-**3. [Secure Smart Grids — ICS Cybersecurity Framework](https://github.com/Sainath-Reddy7/Secure-Smart-Grids)** 🔐
-Hybrid security framework for Smart Grid ICS: Random-Forest anomaly detection, Isolation-Forest **zero-day attack detection**, Edge AI deployment, and **ECC-AES-GCM** encryption over the **IEC 60870-104 & IEC 61850 MMS** protocols.
-`Cybersecurity` `ICS/SCADA` `Anomaly Detection` `Applied Crypto`
-
-**4. [V-Cards — AI Business-Card Extraction Pipeline](https://github.com/Sainath-Reddy7/V-cards-)** 🪪
-An AI-powered OCR pipeline that converts business-card images into **structured, validated JSON** — supporting both high-performance local GPU processing and cloud-based reasoning.
-`Computer Vision` `OCR` `Data Pipelines`
-
-**➕ Also building:** [Quantum-MicroKPNN-MT](https://github.com/Sainath-Reddy7/Quantum-MicroKPNN-MT) (quantum-inspired neural networks) &middot; [EEG Signal Acquisition](https://github.com/Sainath-Reddy7/EEG_Signal_Acquisition) (experimental hardware setup) &middot; [C++ DSA Templates](https://github.com/Sainath-Reddy7/cpp-dsa-templates-)
-
 ## 🧰 Toolbox
 
 **Languages:** &nbsp;
