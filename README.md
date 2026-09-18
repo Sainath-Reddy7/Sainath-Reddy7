@@ -19,6 +19,12 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/Sainath-Reddy7?tab=repositories)
 
+<br/>
+
+<img src="assets/workspace.jpg" width="100%" alt="the workspace"/>
+
+<sub><i>the lab — where ideas become models.</i></sub>
+
 </div>
 
 ---
@@ -49,9 +55,9 @@ class SainathReddy:
 </td>
 <td valign="middle" align="center" width="44%">
 
-<img src="https://avatars.githubusercontent.com/u/180950590?v=4" width="62%" alt="avatar"/>
+<img src="assets/working.png" width="88%" alt="working on models"/>
 
-<sub><i>B Sainath Reddy · Coimbatore, India</i></sub>
+<sub><i>in the zone — training, tuning, evaluating.</i></sub>
 
 </td>
 </tr>
