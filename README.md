@@ -55,7 +55,7 @@ class SainathReddy:
 </td>
 <td valign="middle" align="center" width="44%">
 
-<img src="assets/hand.jpg" width="82%" alt="AI, engineered"/>
+<img src="assets/network.jpg" width="88%" alt="data network"/>
 
 <sub><i>AI, engineered — not just used.</i></sub>
 
