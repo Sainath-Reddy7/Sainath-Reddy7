@@ -55,26 +55,13 @@ class SainathReddy:
 </td>
 <td valign="middle" align="center" width="44%">
 
-<img src="assets/working.png" width="88%" alt="working on models"/>
+<img src="assets/hand.jpg" width="82%" alt="AI, engineered"/>
 
-<sub><i>in the zone — training, tuning, evaluating.</i></sub>
+<sub><i>AI, engineered — not just used.</i></sub>
 
 </td>
 </tr>
 </table>
-
----
-
-## Model Registry
-
-Every run links to its repo — receipts, not claims.
-
-| run | task | result | status |
-|:--- |:---- |:------ |:------ |
-| [`quad-attitude`](https://github.com/Sainath-Reddy7/Drones_S5_CD_12_Full_Quaternion_Based_Attitude_Control_for_a_Quadrotor) | quaternion attitude control | ECC '13 paper reproduced, verified across **4 simulators** | 🟢 [live demo](https://quadrotor-quaternion-sim.vercel.app) |
-| [`xrl-scheduler`](https://github.com/Sainath-Reddy7/Explainable-Reinforcement-Learning-for-Energy-Efficient-Cloud-Resource-Scheduling) | DQN cloud–edge scheduling | beats **7 baselines** on real Google Borg traces, pure NumPy | 🟢 audited |
-| [`grid-shield`](https://github.com/Sainath-Reddy7/Secure-Smart-Grids) | ICS anomaly detection | zero-day catch + **ECC-AES-GCM** over IEC 60870-104 / 61850 | 🟢 hardened |
-| [`v-cards`](https://github.com/Sainath-Reddy7/V-cards-) | OCR → structured data | business cards to **validated JSON**, local GPU or cloud | 🟢 shipped |
 
 ---
 
