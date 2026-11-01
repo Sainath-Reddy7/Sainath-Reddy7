@@ -87,32 +87,6 @@ class SainathReddy:
 
 ---
 
-## GitHub Stats
-
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=Sainath-Reddy7&show_icons=true&hide_border=true&bg_color=0d0d0d&title_color=58A6FF&icon_color=58A6FF&text_color=c9d1d9" alt="GitHub stats"/>
-&nbsp;
-<img height="160" src="https://streak-stats.demolab.com?user=Sainath-Reddy7&hide_border=true&background=0D0D0D&ring=58A6FF&fire=58A6FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=8B949E&dates=8B949E" alt="streak stats"/>
-
-<br/>
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sainath-Reddy7&layout=compact&hide_border=true&bg_color=0d0d0d&title_color=58A6FF&text_color=c9d1d9&langs_count=8" alt="top languages"/>
-
-<br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=Sainath-Reddy7&row=1&column=7&no-frame=true&no-bg=true&margin-w=6" alt="trophies"/>
-
-<br/>
-
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=Sainath-Reddy7&bg_color=0d0d0d&color=c9d1d9&line=58a6ff&point=58a6ff&area=true&hide_border=true" alt="activity graph"/>
-
-<sub><i>stats render live from GitHub — nothing hand-painted.</i></sub>
-
-</div>
-
----
-
 ## What I'm About
 
 <table>
@@ -138,22 +112,6 @@ and engineering it.
 </td>
 </tr>
 </table>
-
----
-
-## Currently Building
-
-<div align="center">
-
-[![AgentCred](https://img.shields.io/badge/AgentCred-protocol_draft-0d0d0d?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/Sainath-Reddy7/agentcred)
-
-[**AgentCred**](https://github.com/Sainath-Reddy7/agentcred) — a credit bureau for AI agents.
-An open protocol for agent identity, counterparty attestations, and trust scores (bands A–E),
-so platforms can finally ask *"can I trust this agent?"* before transacting with one.
-
-<sub><i>spec, JSON schemas & a tested v0 scoring engine are already up.</i></sub>
-
-</div>
 
 ---
 
