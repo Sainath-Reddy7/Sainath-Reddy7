@@ -12,11 +12,11 @@ Merged pull requests over the last 12 months, grouped by upstream organization. 
 | Organization | Merged PRs |
 | --- | --: |
 | [mcp-memory-service](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3Adoobidoo&type=pullrequests) | 3 |
-| [Microsoft](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3Amicrosoft+user%3AAzure&type=pullrequests) | 2 |
+| [Microsoft](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3Amicrosoft+user%3AAzure&type=pullrequests) | 3 |
 | [fast-collections](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3Afast-collections&type=pullrequests) | 1 |
 | [mcp-audit](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3Aadudley78&type=pullrequests) | 1 |
 | [Meta](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3Ameta&type=pullrequests) | 1 |
-| **Total** | **8** |
+| **Total** | **9** |
 <!-- OSS_CONTRIBUTIONS_END -->
 
 ## Selected Projects
