@@ -22,11 +22,6 @@
       "note": "upstream repository is doobidoo/mcp-memory-service"
     },
     {
-      "display": "vitals",
-      "owners": ["shaunAngel"],
-      "note": "upstream repository is shaunAngel/vitals"
-    },
-    {
       "display": "mcp-audit",
       "owners": ["adudley78"],
       "note": "upstream repository is adudley78/mcp-audit"
@@ -37,7 +32,8 @@
     }
   ],
   "exclude_owners": [
-    "Sainath-Reddy7"
+    "Sainath-Reddy7",
+    "shaunAngel"
   ],
   "exclude_repos": []
 }
