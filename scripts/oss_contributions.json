@@ -1,0 +1,43 @@
+{
+  "author": "Sainath-Reddy7",
+  "rolling_window_months": 12,
+  "section_markers": {
+    "start": "<!-- OSS_CONTRIBUTIONS_START -->",
+    "end": "<!-- OSS_CONTRIBUTIONS_END -->"
+  },
+  "groups": [
+    {
+      "display": "Microsoft",
+      "owners": ["microsoft", "Azure"],
+      "note": "PyRIT; Azure kept because PyRIT historically lived at Azure/PyRIT"
+    },
+    {
+      "display": "Meta",
+      "owners": ["meta"],
+      "note": "astryx lives under Meta's github.com/meta organization"
+    },
+    {
+      "display": "mcp-memory-service",
+      "owners": ["doobidoo"],
+      "note": "upstream repository is doobidoo/mcp-memory-service"
+    },
+    {
+      "display": "vitals",
+      "owners": ["shaunAngel"],
+      "note": "upstream repository is shaunAngel/vitals"
+    },
+    {
+      "display": "mcp-audit",
+      "owners": ["adudley78"],
+      "note": "upstream repository is adudley78/mcp-audit"
+    },
+    {
+      "display": "fast-collections",
+      "owners": ["fast-collections"]
+    }
+  ],
+  "exclude_owners": [
+    "Sainath-Reddy7"
+  ],
+  "exclude_repos": []
+}

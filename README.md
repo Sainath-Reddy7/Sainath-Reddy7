@@ -1,136 +1,41 @@
-<!-- ────────────────────────  HERO  ──────────────────────── -->
-<div align="center">
+# B Sainath Reddy
 
-<img src="assets/neural.svg" width="100%" alt="neural network"/>
+**AI Engineering Undergraduate | Open Source Contributor**
 
-<br/>
+I'm an AI engineering undergraduate at Amrita Vishwa Vidyapeetham, Coimbatore, working across machine learning, reinforcement learning, and computer vision. I like taking a system from the math to something that actually runs, and I contribute fixes to the open-source projects I build on.
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=700&size=44&pause=99999999&color=F0F6FC&center=true&vCenter=true&repeat=false&width=640&height=66&lines=Hi%2C+I%27m+Sainath+Reddy" alt="Hi, I'm Sainath Reddy"/>
+## Open Source Contributions
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=500&size=20&pause=99999999&color=8B949E&center=true&vCenter=true&repeat=false&width=640&height=32&lines=AI+Student++%7C++Amrita+Vishwa+Vidyapeetham+%C2%B7+Coimbatore" alt="AI Student at Amrita"/>
+Merged pull requests over the last 12 months, grouped by upstream organization. A scheduled workflow recomputes this table from the GitHub API, so it stays current without manual edits.
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1100&color=58A6FF&center=true&vCenter=true&width=640&height=36&lines=Machine+Learning+%C2%B7+Deep+Learning+%C2%B7+RL+%C2%B7+Computer+Vision%3Bbuilding+intelligent+systems+end-to-end" alt="focus areas"/>
+<!-- OSS_CONTRIBUTIONS_START -->
+| Organization | Merged PRs |
+| --- | --: |
+| [mcp-memory-service](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3Adoobidoo&type=pullrequests) | 3 |
+| [Microsoft](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3Amicrosoft+user%3AAzure&type=pullrequests) | 2 |
+| [vitals](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3AshaunAngel&type=pullrequests) | 2 |
+| [fast-collections](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3Afast-collections&type=pullrequests) | 1 |
+| [mcp-audit](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3Aadudley78&type=pullrequests) | 1 |
+| [Meta](https://github.com/search?q=is%3Apr+is%3Amerged+author%3ASainath-Reddy7+user%3Ameta&type=pullrequests) | 1 |
+| **Total** | **10** |
+<!-- OSS_CONTRIBUTIONS_END -->
 
-<br/>
+## Selected Projects
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/b-sainath-reddy-097915321)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:bsainathreddy4@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/Sainath-Reddy7?tab=repositories)
+| Project | Description | Technologies |
+| --- | --- | --- |
+| [agentcred](https://github.com/Sainath-Reddy7/agentcred) | Credit bureau for AI agents: Ed25519 identity, hash-chained attestations, dispute resolution, and trust scoring. | Python |
+| [cua](https://github.com/Sainath-Reddy7/cua) | Computer-use agent that reads the screen and controls a PC, built module by module. | Python |
+| [Explainable RL Cloud Scheduling](https://github.com/Sainath-Reddy7/Explainable-Reinforcement-Learning-for-Energy-Efficient-Cloud-Resource-Scheduling) | Double DQN cloud task scheduler with a from-scratch KernelSHAP explainability layer, trained on real Google Borg traces and benchmarked against seven baselines. | Python, NumPy |
+| [Quadrotor Attitude Control](https://github.com/Sainath-Reddy7/Drones_S5_CD12_Full_Quaternion_Based_Attitude_Control_for_a_Quadrotor) | Reproduction of full-quaternion attitude control (Fresk & Nikolakopoulos, ECC 2013) with 6-DOF simulation and deployment to gym-pybullet-drones, MuJoCo, Gazebo, and ArduPilot. | Python |
+| [netpilot](https://github.com/Sainath-Reddy7/netpilot) | Windows network health monitor with live latency, jitter, and loss scoring plus congestion heatmaps; runs without admin rights. | Python |
 
-<br/>
+## Technical Interests
 
-<img src="assets/workspace.jpg" width="100%" alt="the workspace"/>
+Reinforcement learning, AI agents, computer vision, and model explainability.
 
-<sub><i>the lab — where ideas become models.</i></sub>
+## Connect
 
-</div>
-
----
-
-## About Me
-
-<table>
-<tr>
-<td valign="top" width="56%">
-
-```python
-class SainathReddy:
-
-    role       = "AI Student"
-    but_mostly = "I build intelligent systems"
-    #             ML · DL · RL · CV — the whole toolkit
-
-    currently  = "diving deeper into everything AI"
-    open_to    = "internships & research collabs"
-
-    def how_i_work(self):
-        return ("understand the math, "
-                "rebuild it from scratch, "
-                "then make it run in the "
-                "real world")
-```
-
-</td>
-<td valign="middle" align="center" width="44%">
-
-<img src="assets/network.jpg" width="88%" alt="data network"/>
-
-<sub><i>AI, engineered — not just used.</i></sub>
-
-</td>
-</tr>
-</table>
-
----
-
-## Stack & Tools
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,scikitlearn,opencv,cpp,ts,anaconda,postgres,sqlite,docker,git,github,vscode,linux,vercel&theme=dark&perline=8" alt="core stack"/>
-
-<br/>
-
-<a href="https://numpy.org"><img src="https://img.shields.io/badge/NumPy-0d0d0d?style=flat-square&logo=numpy&logoColor=58A6FF" alt="NumPy"/></a>
-<a href="https://pandas.pydata.org"><img src="https://img.shields.io/badge/Pandas-0d0d0d?style=flat-square&logo=pandas&logoColor=58A6FF" alt="Pandas"/></a>
-<a href="https://scikit-learn.org"><img src="https://img.shields.io/badge/scikit--learn-0d0d0d?style=flat-square&logo=scikitlearn&logoColor=58A6FF" alt="scikit-learn"/></a>
-<a href="https://opencv.org"><img src="https://img.shields.io/badge/OpenCV-0d0d0d?style=flat-square&logo=opencv&logoColor=58A6FF" alt="OpenCV"/></a>
-<a href="https://keras.io"><img src="https://img.shields.io/badge/Keras-0d0d0d?style=flat-square&logo=keras&logoColor=58A6FF" alt="Keras"/></a>
-<a href="https://developers.google.com/mediapipe"><img src="https://img.shields.io/badge/MediaPipe-0d0d0d?style=flat-square&logoColor=58A6FF" alt="MediaPipe"/></a>
-<a href="https://shap.readthedocs.io"><img src="https://img.shields.io/badge/SHAP-0d0d0d?style=flat-square&logoColor=58A6FF" alt="SHAP"/></a>
-<a href="https://matplotlib.org"><img src="https://img.shields.io/badge/Matplotlib-0d0d0d?style=flat-square&logoColor=58A6FF" alt="Matplotlib"/></a>
-<a href="https://github.com/JaidedAI/EasyOCR"><img src="https://img.shields.io/badge/EasyOCR-0d0d0d?style=flat-square&logoColor=58A6FF" alt="EasyOCR"/></a>
-
-</div>
-
----
-
-## What I'm About
-
-<table>
-<tr>
-<td valign="middle" width="58%">
-
-I work across the AI landscape — machine learning, deep learning,
-reinforcement learning, vision — because real problems don't come
-labeled with the technique that solves them.
-
-What stays constant: clean data, sound math, honest evaluation, and
-models that hold up outside the notebook. If a system works, I want
-to know **why** it works — that's the difference between using AI
-and engineering it.
-
-</td>
-<td valign="middle" align="center" width="42%">
-
-<img src="assets/landscape.svg" width="88%" alt="the AI landscape"/>
-
-<sub><i>one landscape, many tools — pick the right one for the problem.</i></sub>
-
-</td>
-</tr>
-</table>
-
----
-
-## Let's Connect
-
-<div align="center">
-
-Open to internships, research collaborations, and good problems worth solving.
-
-<br/>
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d0d?style=flat-square&logo=linkedin&logoColor=58A6FF)](https://www.linkedin.com/in/b-sainath-reddy-097915321)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-0d0d0d?style=flat-square&logo=gmail&logoColor=58A6FF)](mailto:bsainathreddy4@gmail.com)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=58A6FF)](https://github.com/Sainath-Reddy7?tab=repositories)
-
-</div>
-
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:1f6feb,100:0d0d0d&height=90&section=footer" width="100%"/>
+- [LinkedIn](https://www.linkedin.com/in/b-sainath-reddy-097915321)
+- [bsainathreddy4@gmail.com](mailto:bsainathreddy4@gmail.com)
+- [GitHub repositories](https://github.com/Sainath-Reddy7?tab=repositories)
